@@ -1,9 +1,13 @@
 #Crawler
-Este projeto visa fornecer uma biblioteca para
-facilitar a produção de robôs de captura usando CURL.
+Este projeto visa fornecer uma framework para
+facilitar a produção de robôs de captura usando a biblioteca CURL.
+
+##Pré-requesitos
+* PHP 5.3.3
+* Módulo libcurl
+* MySQL(opcional para exportação)
 
 ##TODO:
 * Envio de emails e logging
-* Retry infinito
-* Estatísticas
-* Manual (importantíssimo)
+* Painel de Controle
+* Ferramentas de filtragem
